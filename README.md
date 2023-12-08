@@ -1,4 +1,4 @@
-# Attrition-and-Salary-Prediction-with-KNN-and-Multiple-Linear-Regression
+# CaseStudy2DDS: Attrition-and-Salary-Prediction-with-Classification-Models-and-Multiple-Linear-Regression
 
 
 
