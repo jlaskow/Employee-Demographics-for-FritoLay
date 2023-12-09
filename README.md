@@ -7,8 +7,12 @@
 - MonthlyIncome Predictions with Multiple linear Regression
 
 # Final Documents
-- R Markdown_Analysis
-- R Markdown_Rshiny
+- R Markdown_Analysis: Employee Demographic Markdown.Rmd
+- R Markdown_Rshiny: RShiny - Employee Demographic.Rmd
+- HTML Analysis Document: Employee-Demographic.html
+- HTML Rshiny Document: RShiny - Employee-Demographic.html
+- Knit Analysis PDF: Employee_Demographic_Analysis_Laskow.pdf
+- Knit Rshiny PDF: RShiny - Employee Demographic.pdf
 - Powerpoint
 - Video Presentation
 
