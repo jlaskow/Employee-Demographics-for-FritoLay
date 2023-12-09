@@ -1,5 +1,4 @@
-# CaseStudy2DDS: Attrition-and-Salary-Prediction-with-Classification-Models-and-Multiple-Linear-Regression
-
+# CaseStudy2DDS: Employee Demographics for FritoLay
 
 
 # Final Predictions
