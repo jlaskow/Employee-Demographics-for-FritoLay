@@ -1,4 +1,4 @@
-# CaseStudy2DDS: Employee Demographics for FritoLay
+# Employee Demographics for FritoLay
 
 
 # Final Predictions
